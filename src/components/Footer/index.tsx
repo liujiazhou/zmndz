@@ -44,7 +44,7 @@ const Footer: React.FC = () => {
 
   return (
     <>
-      <InfoPanel
+      {/* <InfoPanel
         openState={infoPanelState.donate}
         title="Buy us a coffee"
         icon={IconCoffee}
@@ -72,9 +72,9 @@ const Footer: React.FC = () => {
         </div>
 
         <DonatingCard />
-      </InfoPanel>
+      </InfoPanel> */}
 
-      <InfoPanel
+      {/* <InfoPanel
         openState={infoPanelState.vsc}
         title="VSCode 摸🐟插件"
         icon={IconTerminal2}
@@ -94,7 +94,7 @@ const Footer: React.FC = () => {
           VSCode 插件链接
         </a>
         <br />
-      </InfoPanel>
+      </InfoPanel> */}
 
       <InfoPanel
         openState={infoPanelState.community}
@@ -122,7 +122,7 @@ const Footer: React.FC = () => {
         <br />
       </InfoPanel>
 
-      <InfoPanel
+      {/* <InfoPanel
         openState={infoPanelState.redBook}
         title="小红书社群"
         icon={IconXiaoHongShu}
@@ -145,14 +145,14 @@ const Footer: React.FC = () => {
         <img className="ml-1 w-5/12 " src={redBookCode} alt="redBook" />
         <p className="text-sm text-gray-500 dark:text-gray-400">Tips: 从小红书“我”的左上角点击 三 找到 扫一扫</p>
         <br />
-      </InfoPanel>
+      </InfoPanel> */}
 
       <footer className="mb-1 mt-4 flex w-full items-center justify-center gap-2.5 text-sm ease-in" onClick={(e) => e.currentTarget.blur()}>
-        <a href="https://github.com/Kaiyiwing/qwerty-learner" target="_blank" rel="noreferrer" aria-label="前往 GitHub 项目主页">
+        {/* <a href="https://github.com/Kaiyiwing/qwerty-learner" target="_blank" rel="noreferrer" aria-label="前往 GitHub 项目主页">
           <IconGithub fontSize={15} className="text-gray-500 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-100" />
-        </a>
+        </a> */}
 
-        <button
+        {/* <button
           className="cursor-pointer"
           type="button"
           onClick={(e) => {
@@ -162,7 +162,7 @@ const Footer: React.FC = () => {
           aria-label="加入我们的小红书社群"
         >
           <IconXiaoHongShu fontSize={14} className="text-gray-500 hover:text-red-500 dark:text-gray-400 dark:hover:text-red-500" />
-        </button>
+        </button> */}
 
         <button
           className="cursor-pointer focus:outline-none"
@@ -171,15 +171,15 @@ const Footer: React.FC = () => {
             handleOpenInfoPanel('community')
             e.currentTarget.blur()
           }}
-          aria-label="加入我们的微信用户群"
+          aria-label="加入我们"
         >
           <IconWechat2 fontSize={16} className="text-gray-500 hover:text-green-500 dark:text-gray-400 dark:hover:text-green-500" />
         </button>
 
-        <a href="https://twitter.com/real_kai42" target="_blank" title="x" rel="noreferrer">
+        {/* <a href="https://twitter.com/real_kai42" target="_blank" title="x" rel="noreferrer">
           <IconTwitter fontSize={16} className="text-gray-500 hover:text-[#1DA1F2] dark:text-gray-400 dark:hover:text-[#1DA1F2]" />
-        </a>
-        <button
+        </a> */}
+        {/* <button
           className="cursor-pointer focus:outline-none "
           type="button"
           onClick={(e) => {
@@ -189,9 +189,9 @@ const Footer: React.FC = () => {
           aria-label="考虑捐赠我们"
         >
           <IconCoffee2 fontSize={16} className="text-gray-500 hover:text-amber-500 dark:text-gray-400 dark:hover:text-amber-500" />
-        </button>
+        </button> */}
 
-        <button
+        {/* <button
           className="cursor-pointer focus:outline-none"
           type="button"
           onClick={(e) => {
@@ -201,7 +201,7 @@ const Footer: React.FC = () => {
           aria-label="使用 Visual Studio Code 插件版 Qwerty Learner"
         >
           <IconVisualstudiocode fontSize={14} className="text-gray-500 hover:text-sky-500 dark:text-gray-400 dark:hover:text-sky-500" />
-        </button>
+        </button> */}
 
         {/* <a
           href="mailto:me@kaiyi.cool"
@@ -213,9 +213,9 @@ const Footer: React.FC = () => {
           <IconMail fontSize={16} className="text-gray-500 hover:text-indigo-400 dark:text-gray-400 dark:hover:text-indigo-400" />
         </a> */}
 
-        <a rel="noreferrer" className="cursor-pointer focus:outline-none" onClick={() => navigate('/friend-links')} aria-label="查看友链">
+        {/* <a rel="noreferrer" className="cursor-pointer focus:outline-none" onClick={() => navigate('/friend-links')} aria-label="查看友链">
           <RiLinksLine fontSize={14} className="text-gray-500 hover:text-indigo-400 dark:text-gray-400 dark:hover:text-indigo-400" />
-        </a>
+        </a> */}
 
         <Tooltip content="中国大陆镜像">
           <a href="" target="_self" title="">
