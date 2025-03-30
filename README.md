@@ -1,7 +1,3 @@
-<div align=center>
-<img  src="src/assets/logo.svg"/>
-</div>
-
 <h1 align="center">
   Qwerty Learner
 </h1>
