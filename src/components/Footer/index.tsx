@@ -98,27 +98,27 @@ const Footer: React.FC = () => {
 
       <InfoPanel
         openState={infoPanelState.community}
-        title="用户反馈社群"
+        title="联系我们"
         icon={IconWechat}
         buttonClassName="bg-green-500 hover:bg-green-400"
         iconClassName="text-green-500 bg-green-100 dark:text-green-300 dark:bg-green-500"
         onClose={() => handleCloseInfoPanel('community')}
       >
         <p className="text-sm text-gray-500 dark:text-gray-400">
-          Qwerty Learner 是一个开源项目，旨在为用户提供高质量、可靠的打字练习工具。
+          啄木鸟打字练习平台，旨在为用户提供高质量、可靠的打字练习工具。
           <br />
-          加入我们的用户社群后，您可以与我们的开发团队进行沟通，分享您的使用体验和建议，帮助我们改进产品，同时也能够及时了解我们的最新动态和更新内容。
+          如果您有任何问题、建议或合作意向，欢迎扫描以下二维码与我们取得联系，开启沟通之旅。期待与您交流！
           <br />
           <br />
         </p>
-        <p className="text-sm text-gray-700 dark:text-gray-200">
+        {/* <p className="text-sm text-gray-700 dark:text-gray-200">
           我们深信，与用户的良好互动和反馈是推动我们不断前进和提高的重要因素。因此，我们诚挚邀请您加入我们的社群，与我们一起打造更好的
           「Qwerty Learner」！
-        </p>
+        </p> */}
         <br />
         <p className="text-sm text-gray-500  dark:text-gray-400">再次感谢您的支持和关注！</p>
         <br />
-        <img className="ml-1 w-2/6 " src="https://dz.zmnedu.cc/weChat-group.png" alt="weChat-group" />
+        <img className="mx-auto w-2/6" src="https://dz.zmnedu.cc/weChat-group.png" alt="weChat-group" />
         <br />
       </InfoPanel>
 
@@ -143,7 +143,7 @@ const Footer: React.FC = () => {
         </p>
         <br />
         <img className="ml-1 w-5/12 " src={redBookCode} alt="redBook" />
-        <p className="text-sm text-gray-500 dark:text-gray-400">Tips: 从小红书“我”的左上角点击 三 找到 扫一扫</p>
+        <p className="text-sm text-gray-500 dark:text-gray-400">Tips: 从小红书"我"的左上角点击 三 找到 扫一扫</p>
         <br />
       </InfoPanel> */}
 
