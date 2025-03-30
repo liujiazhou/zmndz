@@ -50,6 +50,5 @@ export default defineConfig(async ({ mode }) => {
         localsConvention: 'camelCaseOnly',
       },
     },
-    base: mode === 'production' ? '/' : '/',
   }
 })
