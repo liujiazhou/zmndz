@@ -203,7 +203,7 @@ const Footer: React.FC = () => {
           <IconVisualstudiocode fontSize={14} className="text-gray-500 hover:text-sky-500 dark:text-gray-400 dark:hover:text-sky-500" />
         </button>
 
-        <a
+        {/* <a
           href="mailto:me@kaiyi.cool"
           target="_blank"
           rel="noreferrer"
@@ -211,13 +211,14 @@ const Footer: React.FC = () => {
           aria-label="发送邮件到 me@kaiyi.cool"
         >
           <IconMail fontSize={16} className="text-gray-500 hover:text-indigo-400 dark:text-gray-400 dark:hover:text-indigo-400" />
-        </a>
+        </a> */}
+
         <a rel="noreferrer" className="cursor-pointer focus:outline-none" onClick={() => navigate('/friend-links')} aria-label="查看友链">
           <RiLinksLine fontSize={14} className="text-gray-500 hover:text-indigo-400 dark:text-gray-400 dark:hover:text-indigo-400" />
         </a>
 
         <Tooltip content="中国大陆镜像">
-          <a href="https://kaiyiwing.gitee.io/qwerty-learner" target="_self" title="前往中国大陆镜像">
+          <a href="" target="_self" title="">
             <IconFlagChina fontSize={16} />
           </a>
         </Tooltip>
@@ -230,17 +231,17 @@ const Footer: React.FC = () => {
             e.currentTarget.blur()
           }}
         >
-          @ Qwerty Learner
+          @ 啄木鸟打字练习平台
         </button>
 
-        <a
+        {/* <a
           className="cursor-pointer text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200"
           href="https://beian.miit.gov.cn"
           target="_blank"
           rel="noreferrer"
         >
           鲁ICP备2022030649号
-        </a>
+        </a> */}
         <span className="select-none rounded bg-slate-200 px-1 text-xs text-slate-600 dark:bg-slate-800 dark:text-slate-400">
           Build <span className="select-all">{LATEST_COMMIT_HASH}</span>
         </span>

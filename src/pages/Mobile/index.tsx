@@ -69,7 +69,7 @@ const MobilePage: React.FC = () => {
     <div className="flex  w-screen flex-col">
       <section className="flex items-center justify-center py-2 shadow-md">
         <img src={logo} className="mr-3 h-16 w-16" alt="Qwerty Learner Logo" />
-        <h1 className="text-2xl font-bold text-primary">Qwerty Learner</h1>
+        <h1 className="text-2xl font-bold text-primary">啄木鸟打字练习平台</h1>
       </section>
 
       <section className="relative">
