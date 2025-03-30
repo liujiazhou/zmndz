@@ -23,7 +23,7 @@ declare module '*.jpeg' {
 }
 
 declare module '~icons/*' {
-  import React from 'react'
+  import type React from 'react'
   const Component: React.FC<React.SVGAttributes<SVGElement>>
   export default Component
 }
