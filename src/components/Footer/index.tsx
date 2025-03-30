@@ -143,7 +143,7 @@ const Footer: React.FC = () => {
         </p>
         <br />
         <img className="ml-1 w-5/12 " src={redBookCode} alt="redBook" />
-        <p className="text-sm text-gray-500 dark:text-gray-400">Tips: 从小红书"我"的左上角点击 三 找到 扫一扫</p>
+        <p className="text-sm text-gray-500 dark:text-gray-400">Tips: 从小红书“我”的左上角点击 三 找到 扫一扫</p>
         <br />
       </InfoPanel> */}
 
