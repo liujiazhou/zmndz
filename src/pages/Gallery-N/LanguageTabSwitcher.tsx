@@ -5,6 +5,7 @@ import enFlag from '@/assets/flags/en.png'
 import idFlag from '@/assets/flags/id.png'
 import jpFlag from '@/assets/flags/ja.png'
 import kkFlag from '@/assets/flags/kk.png'
+import zhFlag from '@/assets/flags/zh.png'
 import type { LanguageCategoryType } from '@/typings'
 import { RadioGroup } from '@headlessui/react'
 import { useCallback, useContext } from 'react'
@@ -17,6 +18,7 @@ export type LanguageTabOption = {
 
 const options: LanguageTabOption[] = [
   { id: 'code', name: 'Code', flag: codeFlag },
+  { id: 'zh', name: '中文', flag: zhFlag },
   { id: 'en', name: '英语', flag: enFlag },
   // { id: 'ja', name: '日语', flag: jpFlag },
   // { id: 'de', name: '德语', flag: deFlag },

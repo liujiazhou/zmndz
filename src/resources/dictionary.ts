@@ -3385,7 +3385,7 @@ const programming: DictionaryResource[] = [
     category: '代码练习',
     tags: ['少儿编程', 'Python'],
     url: '/dicts/Child_python_code.json',
-    length: 19,
+    length: 40,
     language: 'en',
     languageCategory: 'code',
   },
@@ -4125,15 +4125,17 @@ export const dictionaryResources: DictionaryResource[] = [
   ...kazakhHapinDicts,
   ...indonesianDicts,
 
-  // {
-  //   id: 'zhtest',
-  //   name: '中文测试',
-  //   description: '中文测试词库',
-  //   category: '测试',
-  //   url: '/dicts/chinese_test.json',
-  //   length: 27,
-  //   language: 'zh',
-  // },
+  {
+    id: 'zhtest',
+    name: '中文测试',
+    description: '中文测试词库',
+    category: '测试',
+    tags: ['中文'], // 可选但推荐添加
+    url: '/dicts/chinese_test.json',
+    length: 27,
+    language: 'zh',
+    languageCategory: 'zh', // 这个属性缺失了，需要添加
+  },
   // {
   //   id: 'jptest',
   //   name: '日文测试',

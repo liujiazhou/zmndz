@@ -1,172 +1,218 @@
 [
     {
-        "name": "谢谢",
+        "name": "nihao",
         "trans": [
-            "thank you"
-        ]
+            "你好",
+            "nǐ hǎo"
+        ],
+        "notation": "你好"
     },
     {
-        "name": "对不起",
+        "name": "xiexie",
         "trans": [
-            "sorry"
-        ]
+            "谢谢",
+            "xiè xie"
+        ],
+        "notation": "谢谢"
     },
     {
-        "name": "再见",
+        "name": "duibuqi",
         "trans": [
-            "goodbye"
-        ]
+            "对不起",
+            "duì bù qǐ"
+        ],
+        "notation": "对不起"
     },
     {
-        "name": "喜欢",
+        "name": "zaijian",
         "trans": [
-            "like"
-        ]
+            "再见",
+            "zài jiàn"
+        ],
+        "notation": "再见"
     },
     {
-        "name": "爱",
+        "name": "xihuan",
         "trans": [
-            "love"
-        ]
+            "喜欢",
+            "xǐ huān"
+        ],
+        "notation": "喜欢"
     },
     {
-        "name": "好的",
+        "name": "ai",
         "trans": [
-            "okay",
-            "alright"
-        ]
+            "爱",
+            "ài"
+        ],
+        "notation": "爱"
     },
     {
-        "name": "是的",
+        "name": "hao",
         "trans": [
-            "yes"
-        ]
+            "好",
+            "hǎo"
+        ],
+        "notation": "好"
     },
     {
-        "name": "不",
+        "name": "shide",
         "trans": [
-            "no"
-        ]
+            "是的",
+            "shì de"
+        ],
+        "notation": "是的"
     },
     {
-        "name": "可能",
+        "name": "bu",
         "trans": [
-            "maybe",
-            "perhaps"
-        ]
+            "不",
+            "bù"
+        ],
+        "notation": "不"
     },
     {
-        "name": "真的吗",
+        "name": "keneng",
         "trans": [
-            "really",
-            "seriously"
-        ]
+            "可能",
+            "kě néng"
+        ],
+        "notation": "可能"
     },
     {
-        "name": "不用谢",
+        "name": "zhendema",
         "trans": [
-            "you're welcome"
-        ]
+            "真的吗",
+            "zhēn de ma"
+        ],
+        "notation": "真的吗"
     },
     {
-        "name": "对的",
+        "name": "buyongxie",
         "trans": [
-            "right",
-            "correct"
-        ]
+            "不用谢",
+            "bù yòng xiè"
+        ],
+        "notation": "不用谢"
     },
     {
-        "name": "错的",
+        "name": "duide",
         "trans": [
-            "wrong",
-            "incorrect"
-        ]
+            "对的",
+            "duì de"
+        ],
+        "notation": "对的"
     },
     {
-        "name": "好久不见",
+        "name": "cuode",
         "trans": [
-            "long time no see"
-        ]
+            "错的",
+            "cuò de"
+        ],
+        "notation": "错的"
     },
     {
-        "name": "加油",
+        "name": "haojiubujian",
         "trans": [
-            "come on",
-            "let's go"
-        ]
+            "好久不见",
+            "hǎo jiǔ bù jiàn"
+        ],
+        "notation": "好久不见"
     },
     {
-        "name": "放心",
+        "name": "jiayou",
         "trans": [
-            "rest assured",
-            "don't worry"
-        ]
+            "加油",
+            "jiā yóu"
+        ],
+        "notation": "加油"
     },
     {
-        "name": "好吃",
+        "name": "fangxin",
         "trans": [
-            "delicious",
-            "tasty"
-        ]
+            "放心",
+            "fàng xīn"
+        ],
+        "notation": "放心"
     },
     {
-        "name": "好玩",
+        "name": "haochi",
         "trans": [
-            "fun",
-            "entertaining"
-        ]
+            "好吃",
+            "hǎo chī"
+        ],
+        "notation": "好吃"
     },
     {
-        "name": "好看",
+        "name": "haowan",
         "trans": [
-            "good-looking",
-            "beautiful"
-        ]
+            "好玩",
+            "hǎo wán"
+        ],
+        "notation": "好玩"
     },
     {
-        "name": "难过",
+        "name": "haokan",
         "trans": [
-            "sad",
-            "upset"
-        ]
+            "好看",
+            "hǎo kàn"
+        ],
+        "notation": "好看"
     },
     {
-        "name": "高兴",
+        "name": "nanguo",
         "trans": [
-            "happy",
-            "glad"
-        ]
+            "难过",
+            "nán guò"
+        ],
+        "notation": "难过"
     },
     {
-        "name": "累了",
+        "name": "gaoxing",
         "trans": [
-            "tired",
-            "exhausted"
-        ]
+            "高兴",
+            "gāo xìng"
+        ],
+        "notation": "高兴"
     },
     {
-        "name": "干杯",
+        "name": "leile",
         "trans": [
-            "cheers"
-        ]
+            "累了",
+            "lèi le"
+        ],
+        "notation": "累了"
     },
     {
-        "name": "好的主意",
+        "name": "ganbei",
         "trans": [
-            "good idea"
-        ]
+            "干杯",
+            "gān bēi"
+        ],
+        "notation": "干杯"
     },
     {
-        "name": "祝福",
+        "name": "haozhuyi",
         "trans": [
-            "blessing",
-            "wishing well"
-        ]
+            "好主意",
+            "hǎo zhǔ yì"
+        ],
+        "notation": "好主意"
     },
     {
-        "name": "恭喜",
+        "name": "zhufu",
         "trans": [
-            "congratulations"
-        ]
+            "祝福",
+            "zhù fú"
+        ],
+        "notation": "祝福"
+    },
+    {
+        "name": "gongxi",
+        "trans": [
+            "恭喜",
+            "gōng xǐ"
+        ],
+        "notation": "恭喜"
     }
 ]

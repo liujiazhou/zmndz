@@ -1,17 +1,5 @@
 [
     {
-        "name": "if",
-        "trans": [
-            "如果"
-        ]
-    },
-    {
-        "name": "else",
-        "trans": [
-            "否则"
-        ]
-    },
-    {
         "name": "print",
         "trans": [
             "输出"
@@ -24,6 +12,60 @@
         ]
     },
     {
+        "name": "int",
+        "trans": [
+            "整数"
+        ]
+    },
+    {
+        "name": "float",
+        "trans": [
+            "浮点数"
+        ]
+    },
+    {
+        "name": "str",
+        "trans": [
+            "字符串"
+        ]
+    },
+    {
+        "name": "bool",
+        "trans": [
+            "布尔类型"
+        ]
+    },
+    {
+        "name": "True",
+        "trans": [
+            "真"
+        ]
+    },
+    {
+        "name": "False",
+        "trans": [
+            "假"
+        ]
+    },
+    {
+        "name": "if",
+        "trans": [
+            "如果"
+        ]
+    },
+    {
+        "name": "else",
+        "trans": [
+            "否则"
+        ]
+    },
+    {
+        "name": "elif",
+        "trans": [
+            "否则如果"
+        ]
+    },
+    {
         "name": "while",
         "trans": [
             "while 型循环"
@@ -33,6 +75,12 @@
         "name": "for",
         "trans": [
             "for 型循环"
+        ]
+    },
+    {
+        "name": "range",
+        "trans": [
+            "生成整数序列"
         ]
     },
     {
@@ -51,18 +99,6 @@
         "name": "not",
         "trans": [
             "逻辑非运算符"
-        ]
-    },
-    {
-        "name": "True",
-        "trans": [
-            "真"
-        ]
-    },
-    {
-        "name": "False",
-        "trans": [
-            "假"
         ]
     },
     {
