@@ -3385,7 +3385,7 @@ const programming: DictionaryResource[] = [
     category: '代码练习',
     tags: ['少儿编程', 'Python'],
     url: '/dicts/Child_python_code.json',
-    length: 40,
+    length: 27,
     language: 'en',
     languageCategory: 'code',
   },
@@ -4125,17 +4125,40 @@ export const dictionaryResources: DictionaryResource[] = [
   ...kazakhHapinDicts,
   ...indonesianDicts,
 
+  // {
+  //   id: 'zhtest',
+  //   name: '中文测试',
+  //   description: '中文测试词库',
+  //   category: '中文',
+  //   tags: ['中文'], // 可选但推荐添加
+  //   url: '/dicts/chinese_test.json',
+  //   length: 27,
+  //   language: 'zh',
+  //   languageCategory: 'zh', // 这个属性缺失了，需要添加
+  // },
   {
-    id: 'zhtest',
-    name: '中文测试',
-    description: '中文测试词库',
-    category: '测试',
-    tags: ['中文'], // 可选但推荐添加
-    url: '/dicts/chinese_test.json',
-    length: 27,
+    id: 'zhyinianji',
+    name: '一年级生字',
+    description: '一年级生字词库',
+    category: '中文',
+    tags: ['中文', '一年级'],
+    url: '/dicts/chinese_yinianji_shengzi.json',
+    length: 50,
     language: 'zh',
-    languageCategory: 'zh', // 这个属性缺失了，需要添加
+    languageCategory: 'zh',
   },
+  {
+    id: 'zhyinianji_shengci',
+    name: '一年级生词',
+    description: '一年级生词词库',
+    category: '中文',
+    tags: ['中文', '一年级'],
+    url: '/dicts/chinese_yinianji_shengci.json',
+    length: 26,
+    language: 'zh',
+    languageCategory: 'zh',
+  },
+
   // {
   //   id: 'jptest',
   //   name: '日文测试',

@@ -1,0 +1,410 @@
+[
+    {
+        "notation": "一",
+        "name": "yi",
+        "trans": [
+            "一",
+            "yī"
+        ]
+    },
+    {
+        "notation": "二",
+        "name": "er",
+        "trans": [
+            "二",
+            "èr"
+        ]
+    },
+    {
+        "notation": "三",
+        "name": "san",
+        "trans": [
+            "三",
+            "sān"
+        ]
+    },
+    {
+        "notation": "十",
+        "name": "shi",
+        "trans": [
+            "十",
+            "shí"
+        ]
+    },
+    {
+        "notation": "木",
+        "name": "mu",
+        "trans": [
+            "木",
+            "mù"
+        ]
+    },
+    {
+        "notation": "禾",
+        "name": "he",
+        "trans": [
+            "禾",
+            "hé"
+        ]
+    },
+    {
+        "notation": "上",
+        "name": "shang",
+        "trans": [
+            "上",
+            "shàng"
+        ]
+    },
+    {
+        "notation": "下",
+        "name": "xia",
+        "trans": [
+            "下",
+            "xià"
+        ]
+    },
+    {
+        "notation": "土",
+        "name": "tu",
+        "trans": [
+            "土",
+            "tǔ"
+        ]
+    },
+    {
+        "notation": "个",
+        "name": "ge",
+        "trans": [
+            "个",
+            "gè"
+        ]
+    },
+    {
+        "notation": "八",
+        "name": "ba",
+        "trans": [
+            "八",
+            "bā"
+        ]
+    },
+    {
+        "notation": "入",
+        "name": "ru",
+        "trans": [
+            "入",
+            "rù"
+        ]
+    },
+    {
+        "notation": "大",
+        "name": "da",
+        "trans": [
+            "大",
+            "dà"
+        ]
+    },
+    {
+        "notation": "天",
+        "name": "tian",
+        "trans": [
+            "天",
+            "tiān"
+        ]
+    },
+    {
+        "notation": "人",
+        "name": "ren",
+        "trans": [
+            "人",
+            "rén"
+        ]
+    },
+    {
+        "notation": "火",
+        "name": "huo",
+        "trans": [
+            "火",
+            "huǒ"
+        ]
+    },
+    {
+        "notation": "文",
+        "name": "wen",
+        "trans": [
+            "文",
+            "wén"
+        ]
+    },
+    {
+        "notation": "六",
+        "name": "liu",
+        "trans": [
+            "六",
+            "liù"
+        ]
+    },
+    {
+        "notation": "七",
+        "name": "qi",
+        "trans": [
+            "七",
+            "qī"
+        ]
+    },
+    {
+        "notation": "儿",
+        "name": "er",
+        "trans": [
+            "儿",
+            "ér"
+        ]
+    },
+    {
+        "notation": "九",
+        "name": "jiu",
+        "trans": [
+            "九",
+            "jiǔ"
+        ]
+    },
+    {
+        "notation": "无",
+        "name": "wu",
+        "trans": [
+            "无",
+            "wú"
+        ]
+    },
+    {
+        "notation": "口",
+        "name": "kou",
+        "trans": [
+            "口",
+            "kǒu"
+        ]
+    },
+    {
+        "notation": "日",
+        "name": "ri",
+        "trans": [
+            "日",
+            "rì"
+        ]
+    },
+    {
+        "notation": "中",
+        "name": "zhong",
+        "trans": [
+            "中",
+            "zhōng"
+        ]
+    },
+    {
+        "notation": "了",
+        "name": "le",
+        "trans": [
+            "了",
+            "liǎo"
+        ]
+    },
+    {
+        "notation": "子",
+        "name": "zi",
+        "trans": [
+            "子",
+            "zǐ"
+        ]
+    },
+    {
+        "notation": "门",
+        "name": "men",
+        "trans": [
+            "门",
+            "mén"
+        ]
+    },
+    {
+        "notation": "月",
+        "name": "yue",
+        "trans": [
+            "月",
+            "yuè"
+        ]
+    },
+    {
+        "notation": "不",
+        "name": "bu",
+        "trans": [
+            "不",
+            "bù"
+        ]
+    },
+    {
+        "notation": "开",
+        "name": "kai",
+        "trans": [
+            "开",
+            "kāi"
+        ]
+    },
+    {
+        "notation": "四",
+        "name": "si",
+        "trans": [
+            "四",
+            "sì"
+        ]
+    },
+    {
+        "notation": "五",
+        "name": "wu",
+        "trans": [
+            "五",
+            "wǔ"
+        ]
+    },
+    {
+        "notation": "目",
+        "name": "mu",
+        "trans": [
+            "目",
+            "mù"
+        ]
+    },
+    {
+        "notation": "耳",
+        "name": "er",
+        "trans": [
+            "耳",
+            "ěr"
+        ]
+    },
+    {
+        "notation": "头",
+        "name": "tou",
+        "trans": [
+            "头",
+            "tóu"
+        ]
+    },
+    {
+        "notation": "米",
+        "name": "mi",
+        "trans": [
+            "米",
+            "mǐ"
+        ]
+    },
+    {
+        "notation": "见",
+        "name": "jian",
+        "trans": [
+            "见",
+            "jiàn"
+        ]
+    },
+    {
+        "notation": "白",
+        "name": "bai",
+        "trans": [
+            "白",
+            "bái"
+        ]
+    },
+    {
+        "notation": "田",
+        "name": "tian",
+        "trans": [
+            "田",
+            "tián"
+        ]
+    },
+    {
+        "notation": "电",
+        "name": "dian",
+        "trans": [
+            "电",
+            "diàn"
+        ]
+    },
+    {
+        "notation": "也",
+        "name": "ye",
+        "trans": [
+            "也",
+            "yě"
+        ]
+    },
+    {
+        "notation": "长",
+        "name": "chang",
+        "trans": [
+            "长",
+            "cháng"
+        ]
+    },
+    {
+        "notation": "山",
+        "name": "shan",
+        "trans": [
+            "山",
+            "shān"
+        ]
+    },
+    {
+        "notation": "出",
+        "name": "chu",
+        "trans": [
+            "出",
+            "chū"
+        ]
+    },
+    {
+        "notation": "飞",
+        "name": "fei",
+        "trans": [
+            "飞",
+            "fēi"
+        ]
+    },
+    {
+        "notation": "马",
+        "name": "ma",
+        "trans": [
+            "马",
+            "mǎ"
+        ]
+    },
+    {
+        "notation": "鸟",
+        "name": "niao",
+        "trans": [
+            "鸟",
+            "niǎo"
+        ]
+    },
+    {
+        "notation": "云",
+        "name": "yun",
+        "trans": [
+            "云",
+            "yún"
+        ]
+    },
+    {
+        "notation": "公",
+        "name": "gong",
+        "trans": [
+            "公",
+            "gōng"
+        ]
+    },
+    {
+        "notation": "车",
+        "name": "che",
+        "trans": [
+            "车",
+            "chē"
+        ]
+    }
+]

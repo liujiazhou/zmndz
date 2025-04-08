@@ -1,0 +1,210 @@
+[
+    {
+        "notation": "工人",
+        "name": "gongren",
+        "trans": [
+            "工人",
+            "gōng rén"
+        ]
+    },
+    {
+        "notation": "手工",
+        "name": "shougong",
+        "trans": [
+            "手工",
+            "shǒu gōng"
+        ]
+    },
+    {
+        "notation": "公开",
+        "name": "gongkai",
+        "trans": [
+            "公开",
+            "gōng kāi"
+        ]
+    },
+    {
+        "notation": "公交",
+        "name": "gongjiao",
+        "trans": [
+            "公交",
+            "gōng jiāo"
+        ]
+    },
+    {
+        "notation": "风向",
+        "name": "fengxiang",
+        "trans": [
+            "风向",
+            "fēng xiàng"
+        ]
+    },
+    {
+        "notation": "风沙",
+        "name": "fengsha",
+        "trans": [
+            "风沙",
+            "fēng shā"
+        ]
+    },
+    {
+        "notation": "丰收",
+        "name": "fengshou",
+        "trans": [
+            "丰收",
+            "fēng shōu"
+        ]
+    },
+    {
+        "notation": "和好",
+        "name": "hehao",
+        "trans": [
+            "和好",
+            "hé hǎo"
+        ]
+    },
+    {
+        "notation": "和气",
+        "name": "heqi",
+        "trans": [
+            "和气",
+            "hé qì"
+        ]
+    },
+    {
+        "notation": "小河",
+        "name": "xiaohe",
+        "trans": [
+            "小河",
+            "xiǎo hé"
+        ]
+    },
+    {
+        "notation": "河水",
+        "name": "heshui",
+        "trans": [
+            "河水",
+            "hé shuǐ"
+        ]
+    },
+    {
+        "notation": "升起",
+        "name": "shengqi",
+        "trans": [
+            "升起",
+            "shēng qǐ"
+        ]
+    },
+    {
+        "notation": "上升",
+        "name": "shangsheng",
+        "trans": [
+            "上升",
+            "shàng shēng"
+        ]
+    },
+    {
+        "notation": "一生",
+        "name": "yisheng",
+        "trans": [
+            "一生",
+            "yī shēng"
+        ]
+    },
+    {
+        "notation": "人生",
+        "name": "rensheng",
+        "trans": [
+            "人生",
+            "rén shēng"
+        ]
+    },
+    {
+        "notation": "全村",
+        "name": "quancun",
+        "trans": [
+            "全村",
+            "quán cūn"
+        ]
+    },
+    {
+        "notation": "全面",
+        "name": "quanmian",
+        "trans": [
+            "全面",
+            "quán miàn"
+        ]
+    },
+    {
+        "notation": "泉水",
+        "name": "quanshui",
+        "trans": [
+            "泉水",
+            "quán shuǐ"
+        ]
+    },
+    {
+        "notation": "山泉",
+        "name": "shanquan",
+        "trans": [
+            "山泉",
+            "shān quán"
+        ]
+    },
+    {
+        "notation": "大厅",
+        "name": "dating",
+        "trans": [
+            "大厅",
+            "dà tīng"
+        ]
+    },
+    {
+        "notation": "听说",
+        "name": "tingshuo",
+        "trans": [
+            "听说",
+            "tīng shuō"
+        ]
+    },
+    {
+        "notation": "听见",
+        "name": "tingjian",
+        "trans": [
+            "听见",
+            "tīng jiàn"
+        ]
+    },
+    {
+        "notation": "渔村",
+        "name": "yucun",
+        "trans": [
+            "渔村",
+            "yú cūn"
+        ]
+    },
+    {
+        "notation": "渔火",
+        "name": "yuhuo",
+        "trans": [
+            "渔火",
+            "yú huǒ"
+        ]
+    },
+    {
+        "notation": "木鱼",
+        "name": "muyu",
+        "trans": [
+            "木鱼",
+            "mù yú"
+        ]
+    },
+    {
+        "notation": "大鱼",
+        "name": "dayu",
+        "trans": [
+            "大鱼",
+            "dà yú"
+        ]
+    }
+]
