@@ -59,6 +59,10 @@ export const DonateCard = () => {
     setShow(false)
   }
 
+  const exitButtonHandler = () => {
+    setShow(false)
+  }
+
   const onAmountChange = (amount: AmountType) => {
     setAmount(amount)
   }
@@ -139,19 +143,11 @@ export const DonateCard = () => {
                   </div>
 
                   {/* <DonatingCard className="mt-2" onAmountChange={onAmountChange} /> */}
-                  {/* <div className="flex w-full justify-between  px-14 pb-3 pt-0">
-                    <button
-                      type="button"
-                      className={`my-btn-primary ${!amount && 'invisible'} w-36 bg-amber-500 font-medium transition-all`}
-                      onClick={onClickHasDonated}
-                    >
-                      我已捐赠
+                  <div className="flex w-full justify-center px-14 pb-3 pt-0">
+                    <button type="button" className="my-btn-primary w-36 font-medium" onClick={exitButtonHandler}>
+                      继续学习
                     </button>
-                    <button type="button" className="my-btn-primary w-36 font-medium" onClick={onClickRemindMeLater}>
-                      之后提醒我
-                    </button>
-                  </div> */}
-                  <br />
+                  </div>
                 </div>
               </Dialog.Panel>
             </Transition.Child>
